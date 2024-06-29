@@ -1,7 +1,7 @@
-## Hola!👋
-Este proyecto es una guía de aprendizaje, tanto teórica como práctica, de la librería Pandas de Python. A través de ejercicios y ejemplos con grandes volúmenes de datos, se pretende facilitar el entendimiento y la utilización de esta poderosa herramienta para el análisis de datos.
+## Hello!👋
+This project is a learning guide, both theoretical and practical, for the Pandas library in Python. Through exercises and examples with large volumes of data, the aim is to make it easier to understand and use this powerful tool for data analysis.
 
-✨Dentro de cada archivo, en el encabezado se encuentra el link al tutorial teorico de Kaggle con el cual se resolvio la practica.
+✨Within each file, the header contains the link to the theoretical tutorial on Kaggle that was used to solve the practical exercise.
 
 <!--
 **TiagoHarari/TiagoHarari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
